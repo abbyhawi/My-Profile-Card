@@ -24,7 +24,29 @@ h2{
 }
  
 p{
-    color: plum;
+    color: rgb(31, 21, 31);
     line-height: 1.6;
     font-size: 15px;
+}
+
+school-website{
+    display: inline-block;
+    color: purple;
+    text-decoration: wavy;
+    margin-top: 15px;
+    
+}
+
+footer{
+    text-align: center;
+    border-top: 1px solid white;
+    padding-top: 10px;
+    margin-top: 12px;
+
+}
+
+footer p{
+    font-size: 15px;
+    color: blue;
+
 }
